@@ -16,5 +16,3 @@
 # 3. Training accuracy of ResNet-18 on CIFAR-10 dataset.
 ![Training acc. of ResNet18 on cifar10 dataset](cifar10_resnet18_trainingacc.png)
 
-# 4. Training accuracy of ResNet-18 on Tiny ImageNet dataset.
-![Training acc. of ResNet18 on tinyimagenet dataset.](tinyimagenet_resnet18_trainingacc.png)
