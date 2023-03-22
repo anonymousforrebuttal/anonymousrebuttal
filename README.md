@@ -13,6 +13,6 @@
 ## 2.2 The learning rates are set as 0.02 and 0.007 for 8192 and 1024 total batch sizes, respectively.
 ![training acc of resnet18 on cifar10 with LAMB optimizer while lr = 0.02(bs=8192)/0.007(bs=1024)](resnet18_cifar10_withlamb002_trainingacc.png)
 
-# 3. Training accuracy of ResNet-18 on CIFAR-10 dataset.
+# 3. Trainging accuracy for ResNet-18 on CIFAR-10 using centralized and decentralized SGD with batch sizes of 1024 and 8192.
 ![Training acc. of ResNet18 on cifar10 dataset](cifar10_resnet18_trainingacc.png)
 
